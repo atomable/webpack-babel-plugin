@@ -1,0 +1,30 @@
+{
+  "name": "atomable-webpack-babel-plugin",
+  "version": "0.0.1",
+  "description": "atomable webpack-babel plugin for bundling before deployment",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atomable/webpack-babel-plugin.git"
+  },
+  "author": "atomable",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atomable/webpack-babel-plugin/issues"
+  },
+  "homepage": "https://github.com/atomable/webpack-babel-plugin#readme",
+  "dependencies": {
+    "atomable-runtime": "^1.0.0-alpha.6",
+    "babel-cli": "^6.18.0",
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.8",
+    "babel-plugin-transform-runtime": "^6.15.0",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "babel-runtime": "^6.18.0",
+    "eslint-loader": "^1.6.1",
+    "js-yaml": "^3.7.0",
+    "source-map-loader": "^0.1.5",
+    "webpack": "^1.13.3"
+  }
+}
